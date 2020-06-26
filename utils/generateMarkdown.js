@@ -1,14 +1,37 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ## ${data.description}
-  ## ${data.tableOfContents}
-  ## ${data.installation}
-  ## ${data.usage}
-  ## ${data.license}
-  ## ${data.contributing}
-  ## ${data.tests}
-  ## ${data.questions}
+  ## Description:
+  
+ ${data.description}
+  
+  ## Table of contents:
+  * Installation
+  * Usage
+  * License
+  * Contributing
+  * Tests
+  * Questions
+
+  ## Installation:
+   ${data.installation}
+
+  ## Usage:
+   ${data.usage}
+
+  ## License:
+ ${data.license}
+
+  ## Contributing:
+ ${data.contributing}
+
+  ## Tests: 
+ ${data.tests}
+  
+  ## Questions: 
+ ${data.questions}
+
+ ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 `;
 }
 

@@ -1,6 +1,6 @@
-# 
+# README Generator
   ## Description:
-  
+  Application used to create a README file dynamically through NODE.
  
   
   ## Table of contents:
@@ -12,21 +12,18 @@
   * Questions
 
   ## Installation:
+   Click on the repo labeled "readme-gen".   
+     Clone file to your local computer.
    
 
   ## Usage:
-   
+   Open terminal and use NODE to run index.js file.   
+     Then follow the prompts. 
 
   ## License:
- 
+   MIT
 
-  ## Contributing:
- 
-
-  ## Tests: 
- 
-  
-  ## Questions: 
- 
+  ## Authored by:
+  Evan Bero
 
  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)

@@ -4,16 +4,14 @@
  
   
   ## Table of contents:
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#authored-by)
 
   ## Installation:
-   Click on the repo labeled "readme-gen".   
-     Clone file to your local computer.
+  Click the link below and clone "readme-gen" to your local computer.
+  https://github.com/evandev01/readme-gen
    
 
   ## Usage:
@@ -25,6 +23,6 @@
    MIT
 
   ## Authored by:
-  Evan Bero
+  Evan Bero (evanDev)
 
  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)

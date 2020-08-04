@@ -19,6 +19,7 @@
   ## Usage:
    Open terminal and use NODE to run index.js file.   
      Then follow the prompts. 
+  How to video: https://www.youtube.com/watch?v=s_KScWTWLIo
 
   ## License:
    MIT

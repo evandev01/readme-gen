@@ -42,13 +42,15 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName + '.md', data, function(err){
-        if(err){
-            console.log(err)}}) 
+    fs.writeFile(fileName + '.md', data, function (err) {
+        if (err) {
+            console.log(err)
+        }
+    })
 }
 
 // function to initialize program
-async function  init () {
+async function init() {
     const response = await inquirer.prompt(questions);
     writeToFile("README.md", generateMarkdown(response));
 }
